@@ -1,0 +1,36 @@
+Save button: 
+- is displayed - pass
+- back color is white - pass
+- text color is blue - pass
+- caption is SAVE - pass
+
+Assign button: 
+- is displayed - pass
+- back color is white - pass
+- text color is blue - pass
+- caption is ASSIGN - pass
+
+Cancel Meeting button: 
+- is displayed - pass
+- back color is transparent/white - pass
+- text color is blue - pass
+- caption is CANCEL MEETING - pass
+
+Open Meeting button: 
+- is displayed - pass
+- back color is orange - pass
+- text color is white - pass
+- caption is OPEN MEETING - pass
+
+Draft title: 
+- is displayed - pass
+- text color is blue - pass
+- caption is DRAFT - pass
+
+Instructions title: 
+- is displayed - pass
+- text color is gray - pass
+- caption is Instructions - pass
+item 1 matches and is: Fill in the necessary fields for this meeting.
+item 2 matches and is: To place the meeting on the public calendar without releasing the agenda, check the box to Calendar the Meeting.
+item 3 matches and is: In order to open meeting to submitters the required fields are Title, Date, Location, and Open Session time.

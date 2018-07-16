@@ -1,0 +1,28 @@
+Save button: 
+- is displayed - pass
+- back color is white - pass
+- text color is blue - pass
+- caption is SAVE - pass
+
+Assign button: 
+- is displayed - pass
+- back color is white - pass
+- text color is blue - pass
+- caption is ASSIGN - pass
+
+Cancel Meeting button: 
+- is displayed - pass
+- back color is transparent/white - pass
+- text color is blue - pass
+- caption is CANCEL MEETING - pass
+
+Open Meeting button: 
+- is displayed - pass
+- back color is orange - pass
+- text color is white - pass
+- caption is OPEN MEETING - pass
+
+Draft title: 
+- is displayed - pass
+- text color is blue - pass
+- caption is DRAFT - pass
